@@ -1,10 +1,10 @@
 {
-  "name": "websocket-chat",
+  "name": "chat",
   "version": "0.0.0",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "justadudewhohacks",
+  "author": "Pavlova",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.0",
